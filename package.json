@@ -1,0 +1,16 @@
+{
+  "name": "oli-interfaces",
+  "version": "1.0.0",
+  "description": "OLI-Interfaces",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "squirrel OLAF Team",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
